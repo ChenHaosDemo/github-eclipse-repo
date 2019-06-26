@@ -64,10 +64,11 @@
 	<audio id="waiting" src="/static/audio/waiting.mp3" preload="auto" onended="onWaitingAudioEnd();"></audio>
 	<div id="poem-txt"
 		style="display: none; font-size: 22px; color: orange; position:absolute; left :10px;top:50px" >
-		《诗词版"流浪地球"》<br /> <span style="font-size: 18px; color: grey">
+		"流浪地球"简介<br /> <span style="font-size: 18px; color: grey">
 			-郭鹏 </span><br /> 
-			<br /> 西风吹皱东方河，万年地球白发多。 
-			<br /> 流浪星际家何去，满船清梦出银河。
+			<br /> 太阳即将毁灭，已经不适合人类生存，而面对绝境，
+			<br /> 人类将开启“流浪地球”计划，试图带着地球一起逃离太阳系，
+			<br />寻找人类新家园的故事。下面来看预告片吧！
 	</div>
 	<img src="/static/imgs/earth.png"
 		style="position: absolute; left: 10px; bottom: 10px; width: 200px"
