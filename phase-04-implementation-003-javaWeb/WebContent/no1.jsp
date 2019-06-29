@@ -64,14 +64,12 @@
 	<audio id="waiting" src="/static/audio/waiting.mp3" preload="auto" onended="onWaitingAudioEnd();"></audio>
 	<div id="poem-txt"
 		style="display: none; font-size: 22px; color: orange; position:absolute; left :10px;top:50px" >
-		"流浪地球"简介<br /> <span style="font-size: 18px; color: grey">
-			-何倩莹 </span><br /> 
-			<br /> 太阳即将毁灭，已经不适合人类生存，而面对绝境，
-			<br /> 人类将开启“流浪地球”计划，试图带着地球一起逃离太阳系，
-			<br />寻找人类新家园的故事。下面来看预告片吧！
+		"流浪地球"<br /> <span style="font-size: 18px; color: grey"> </span><br /> 
+			<br /> 《流浪地球》中体现的中国亲情观念、英雄情怀、奉献精神、故土情结和国际合作理念
+			
 	</div>
 	<img src="/static/imgs/earth.png"
-		style="position: absolute; left: 10px; bottom: 10px; width: 200px"
+		style="position: absolute; left: 5px; bottom: 10px; width: 100px"
 		onclick="run(this);return false" 
 		title="点击后，开始流浪 ！"
 		/>
